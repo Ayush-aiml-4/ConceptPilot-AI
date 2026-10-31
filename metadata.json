@@ -1,0 +1,6 @@
+{
+  "name": "ConceptPilot AI",
+  "description": "Adaptive exam-prep tutor for DBMS Fundamentals. Evaluates answers and dictated reasoning, detects misconceptions, updates concept mastery, and schedules personalized spaced-repetition reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
